@@ -16,6 +16,8 @@
 @property (nonatomic, strong)UITableView  *tableview;
 @property (nonatomic, strong)UIButton     *btn_createDesk;
 
+
+
 @end
 
 @implementation LSCreateDeskVC
